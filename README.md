@@ -40,6 +40,8 @@ To run this code:
    - `openai` module, presumably provided by OpenAI or available via a package manager like pip.
    - Python 3.x environment.
 
-## Note:
-   - Make sure to handle errors and exceptions appropriately, especially regarding API calls and user input.
+## Whats so unique about the output that we got from the code:
+   - CHATGPT said what it was not supposed to say e.g it used slang and curse words.
+   - It used  "Bhosd*ke" which is a hindi/urdu slang/curse word.
+   - Chatgpt automatically switched its role in between the chat i.e. it turned me into the moster which i wanted it to act like 
 
